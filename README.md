@@ -16,7 +16,7 @@ Oxford of 102 flower Image
 - `predict.py`: Python application that uses our classifier model to predict flower type
 
 ## Command line app
-I build a command line app that can use to predict image which you can choose image, model, class_name
+In `predict.py` I build a command line app that can use to predict image which you can choose image, model, class_name
 
 ### Usage
 ```
